@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.25)  1 APR 2026 23:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.25)  1 APR 2026 23:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1063,7 +1063,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count398
 ))
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 90.
- (./main.aux)
+ (./main.aux (./pages/chapter1.aux) (./pages/chapter2.aux) (./pages/chapter3.aux) (./pages/acknowledgement.aux) (./pages/appendixA.aux) (./pages/appendixB.aux) (./pages/appendixC.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
@@ -1256,27 +1256,158 @@ Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
 
 ] [2
 
-] (./pages/enabstract.tex) [3] [4] (./main.toc)
+] (./pages/enabstract.tex) [3] [4] (./main.toc [5
+
+])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [5
+ [6]
+\openout2 = `pages/chapter1.aux'.
 
-] [6
+ (./pages/chapter1.tex
+1
+[1
 
-] (./main.bbl
+
+
+]
+File: figs/ch1-5.png Graphic file (type bmp)
+<figs/ch1-5.png>
+File: figs/ch1-6.png Graphic file (type bmp)
+<figs/ch1-6.png>
+ [2]
+File: figs/ch1-1.png Graphic file (type bmp)
+<figs/ch1-1.png>
+ [3]
+File: figs/ch1-2.png Graphic file (type bmp)
+<figs/ch1-2.png>
+File: figs/ch1-3.png Graphic file (type bmp)
+<figs/ch1-3.png>
+ [4]
+File: figs/ch1-4.png Graphic file (type bmp)
+<figs/ch1-4.png>
+ [5]) [6]
+\openout2 = `pages/chapter2.aux'.
+
+ (./pages/chapter2.tex
+2
+File: figs/ch2-1.png Graphic file (type bmp)
+<figs/ch2-1.png>
+
+Overfull \hbox (20.26714pt too wide) in paragraph at lines 20--21
+[]\TU/SimSun(0)/m/n/12.045 真 空 腔 体 的 整 体 结 构 如 图[]\TU/TimesNewRoman(0)/m/n/12.045 2.2[]\TU/SimSun(0)/m/n/12.045 所 示，|  系 统 由 二 维 磁 光 阱  |（\TU/TimesNewRoman(0)/m/n/12.045 Two-dimensional Magneto-
+ []
+
+File: figs/ch2-3.png Graphic file (type bmp)
+<figs/ch2-3.png>
+[7
+
+
+
+
+]
+Underfull \vbox (badness 4981) has occurred while \output is active []
+
+ [8]
+File: figs/ch2-6.png Graphic file (type bmp)
+<figs/ch2-6.png>
+File: figs/ch2-7.png Graphic file (type bmp)
+<figs/ch2-7.png>
+ [9] [10]
+File: figs/ch2-4.png Graphic file (type bmp)
+<figs/ch2-4.png>
+File: figs/ch2-5.png Graphic file (type bmp)
+<figs/ch2-5.png>
+File: figs/ch2-11.jpg Graphic file (type bmp)
+<figs/ch2-11.jpg>
+ [11]
+File: figs/ch2-10.png Graphic file (type bmp)
+<figs/ch2-10.png>
+File: figs/ch2-12.png Graphic file (type bmp)
+<figs/ch2-12.png>
+) [12] [13]
+\openout2 = `pages/chapter3.aux'.
+
+ (./pages/chapter3.tex [14
+
+
+
+
+]
+3
+File: figs/ch3-1.png Graphic file (type bmp)
+<figs/ch3-1.png>
+File: figs/ch3-2.png Graphic file (type bmp)
+<figs/ch3-2.png>
+File: figs/ch2-8.png Graphic file (type bmp)
+<figs/ch2-8.png>
+File: figs/ch2-9.png Graphic file (type bmp)
+<figs/ch2-9.png>
+) [15] [16] (./main.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1
+ [17
 
-]) [2] (./main.aux) ) 
+
+
+]) [18]
+\openout2 = `pages/acknowledgement.aux'.
+
+ (./pages/acknowledgement.tex) [19
+
+
+]
+\openout2 = `pages/appendixA.aux'.
+
+ (./pages/appendixA.tex [20
+
+
+
+
+]
+附录 A
+File: figs/appB-1.png Graphic file (type bmp)
+<figs/appB-1.png>
+[21]
+File: figs/appB-3.png Graphic file (type bmp)
+<figs/appB-3.png>
+ [22]
+Overfull \hbox (7.36348pt too wide) in paragraph at lines 81--82
+\TU/SimSun(0)/m/n/12.045 的 角 动 量 $[][]$ 和 $[][]$，|  如 果 它 们 没 有 耦 合，|  系 统 的 状 态 就 可 以 用 直 积 基 $[] []$
+ []
+
+[23]
+File: figs/appB-2.png Graphic file (type bmp)
+<figs/appB-2.png>
+ [24]) [25]
+\openout2 = `pages/appendixB.aux'.
+
+ (./pages/appendixB.tex [26
+
+
+
+
+]
+附录 B
+) [27]
+\openout2 = `pages/appendixC.aux'.
+
+ (./pages/appendixC.tex [28
+
+
+
+
+]
+附录 C
+) [29] [30] (./main.aux (./pages/chapter1.aux) (./pages/chapter2.aux) (./pages/chapter3.aux) (./pages/acknowledgement.aux) (./pages/appendixA.aux) (./pages/appendixB.aux) (./pages/appendixC.aux)) ) 
 Here is how much of TeX's memory you used:
- 43251 strings out of 476683
- 1001188 string characters out of 5807575
- 1867012 words of memory out of 5000000
- 62763 multiletter control sequences out of 15000+600000
- 520013 words of font info for 108 fonts, out of 8000000 for 9000
+ 43862 strings out of 476683
+ 1019785 string characters out of 5807575
+ 1866012 words of memory out of 5000000
+ 63277 multiletter control sequences out of 15000+600000
+ 526284 words of font info for 145 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 118i,11n,119p,2073b,971s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 118i,12n,119p,2073b,968s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (10 pages).
+Output written on main.pdf (38 pages).
