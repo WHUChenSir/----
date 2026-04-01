@@ -1,0 +1,175 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Arpornthip et~al.(2012)Arpornthip, Sackett, and
+  Hughes]{arpornthipVacuumpressureMeasurementUsing2012}
+ARPORNTHIP T, SACKETT C~A, HUGHES K~J.
+\newblock Vacuum-pressure measurement using a magneto-optical
+  trap\allowbreak[J/OL].
+\newblock Physical Review A, 2012, 85\allowbreak (3): 033420.
+\newblock DOI: \doi{10.1103/PhysRevA.85.033420}.
+
+\bibitem[成永军\ 等(2024)成永军, 董猛, 孙雯君, 吴翔民,
+  张亚飞, 贾文杰, 冯村, and
+  张瑞芳]{成永军基于7Li冷原子操控的超高真空测量2024}
+成永军, 董猛, 孙雯君, 等.
+\newblock
+  {基于\textsuperscript{7}Li冷原子操控的超高真空测量}\allowbreak[J/OL].
+\newblock 物理学报, 2024, 73\allowbreak (22): 220601-10.
+\newblock DOI: \doi{10.7498/aps.73.20241215}.
+
+\bibitem[贾文杰\ 等(2021)贾文杰, 董猛, 习振华, 范栋, 任正宜,
+  and
+  成永军]{贾文杰基于冷原子的量子真空计量技术研究进展2021}
+贾文杰, 董猛, 习振华, 等.
+\newblock
+  {基于冷原子的量子真空计量技术研究进展}\allowbreak[J/OL].
+\newblock 宇航计测技术, 2021, 41\allowbreak (3): 1-7.
+\newblock DOI: \doi{10.12060/j.issn.1000-7202.2021.03.01}.
+
+\bibitem[张苏钊\ 等(2022)张苏钊, 孙雯君, 董猛, 武海斌, 李睿,
+  张雪姣, 张静怡, and
+  成永军]{张苏钊基于磁光阱中6Li冷原子的真空度测量2022}
+张苏钊, 孙雯君, 董猛, 等.
+\newblock
+  {基于磁光阱中\textsuperscript{6}Li冷原子的真空度测量}\allowbreak[J/OL].
+\newblock 物理学报, 2022, 71\allowbreak (9): 094204-8.
+\newblock DOI: \doi{10.7498/aps.71.20212204}.
+
+\bibitem[Barker et~al.(2023)Barker, Fedchak, K{\l}os, Scherschligt, Sheikh,
+  Tiesinga, and Eckel]{barkerAccurateMeasurementLoss2023}
+BARKER D~S, FEDCHAK J~A, K{\L}OS J, et~al.
+\newblock Accurate measurement of the loss rate of cold atoms due to background
+  gas collisions for the quantum-based cold atom vacuum
+  standard\allowbreak[J/OL].
+\newblock AVS Quantum Science, 2023, 5\allowbreak (3): 035001.
+\newblock DOI: \doi{10.1116/5.0147686}.
+
+\bibitem[Barker et~al.(2022)Barker, Acharya, Fedchak, Klimov, Norrgard,
+  Scherschligt, Tiesinga, and Eckel]{barkerPreciseQuantumMeasurement2022}
+BARKER D~S, ACHARYA B~P, FEDCHAK J~A, et~al.
+\newblock Precise quantum measurement of vacuum with cold
+  atoms\allowbreak[J/OL].
+\newblock Review of Scientific Instruments, 2022, 93\allowbreak (12): 121101.
+\newblock DOI: \doi{10.1063/5.0120500}.
+
+\bibitem[Bayard et~al.(1950)Bayard and Alpert]{bayardExtensionLowPressure1950}
+BAYARD R~T, ALPERT D.
+\newblock Extension of the {{Low Pressure Range}} of the {{Ionization
+  Gauge}}\allowbreak[J/OL].
+\newblock Review of Scientific Instruments, 1950, 21\allowbreak (6): 571-572.
+\newblock DOI: \doi{10.1063/1.1745653}.
+
+\bibitem[Bjorkholm(1988)]{bjorkholmCollisionlimitedLifetimesAtom1988}
+BJORKHOLM J~E.
+\newblock Collision-limited lifetimes of atom traps\allowbreak[J/OL].
+\newblock Physical Review A, 1988, 38\allowbreak (3): 1599-1600.
+\newblock DOI: \doi{10.1103/PhysRevA.38.1599}.
+
+\bibitem[Scherschligt et~al.(2017)Scherschligt, Fedchak, Barker, Eckel, Klimov,
+  Makrides, and Tiesinga]{scherschligtDevelopmentNewUHV2017}
+SCHERSCHLIGT J, FEDCHAK J~A, BARKER D~S, et~al.
+\newblock Development of a new {{UHV}}/{{XHV}} pressure standard (cold atom
+  vacuum standard)\allowbreak[J/OL].
+\newblock Metrologia, 2017, 54\allowbreak (6): S125-S132.
+\newblock DOI: \doi{10.1088/1681-7575/aa8a7b}.
+
+\bibitem[Eckel et~al.(2025)Eckel, Barker, Fedchak, Scherschligt, K{\l}os, and
+  Tiesinga]{eckelEffectGlancingCollisions2025}
+ECKEL S~P, BARKER D~S, FEDCHAK J~A, et~al.
+\newblock Effect of glancing collisions in the cold-atom vacuum
+  standard\allowbreak[J/OL].
+\newblock Physical Review A, 2025, 111\allowbreak (2): 023317.
+\newblock DOI: \doi{10.1103/PhysRevA.111.023317}.
+
+\bibitem[Ehinger et~al.(2022)Ehinger, Acharya, Barker, Fedchak, Scherschligt,
+  Tiesinga, and Eckel]{ehingerComparisonTwoMultiplexed2022}
+EHINGER L~H, ACHARYA B~P, BARKER D~S, et~al.
+\newblock Comparison of two multiplexed portable cold-atom vacuum
+  standards\allowbreak[J/OL].
+\newblock AVS Quantum Science, 2022, 4\allowbreak (3): 034403.
+\newblock DOI: \doi{10.1116/5.0095011}.
+
+\bibitem[Booth et~al.(2019)Booth, Shen, Krems, and
+  Madison]{boothUniversalityQuantumDiffractive2019}
+BOOTH J~L, SHEN P, KREMS R~V, et~al.
+\newblock Universality of quantum diffractive collisions and the quantum
+  pressure standard\allowbreak[J/OL].
+\newblock New Journal of Physics, 2019, 21\allowbreak (10): 102001.
+\newblock DOI: \doi{10.1088/1367-2630/ab452a}.
+
+\bibitem[Shen(2022)]{shenDevelopmentColdAtom2022}
+SHEN P.
+\newblock Development of a cold atom pressure standard\allowbreak[D/OL].
+\newblock University of British Columbia, 2022.
+\newblock DOI: \doi{10.14288/1.0413128}.
+
+\bibitem[Shen et~al.(2020)Shen, Madison, and
+  Booth]{shenRealizationUniversalQuantum2020}
+SHEN P, MADISON K~W, BOOTH J~L.
+\newblock Realization of a universal quantum pressure
+  standard\allowbreak[J/OL].
+\newblock Metrologia, 2020, 57\allowbreak (2): 025015.
+\newblock DOI: \doi{10.1088/1681-7575/ab7170}.
+
+\bibitem[Waldock(2022)]{waldockProgressPortableColdatom2022}
+WALDOCK P~A~Z.
+\newblock Progress towards a portable cold-atom pressure
+  standard\allowbreak[D/OL].
+\newblock University of British Columbia, 2022.
+\newblock DOI: \doi{10.14288/1.0421366}.
+
+\bibitem[Makhalov et~al.(2017)Makhalov and
+  Turlapov]{makhalovVacuumGaugeBased2017}
+MAKHALOV V~B, TURLAPOV A~V.
+\newblock A vacuum gauge based on an ultracold gas\allowbreak[J/OL].
+\newblock Quantum Electronics, 2017, 47\allowbreak (5): 431-437.
+\newblock DOI: \doi{10.1070/QEL16353}.
+
+\bibitem[Halbey et~al.(2025)Halbey, Bernien, Rubin, Madison, and
+  Grosse]{halbeyDesignAdvancesDual2025}
+HALBEY J, BERNIEN M, RUBIN T, et~al.
+\newblock Design advances on the dual species cold atom based pressure
+  standard\allowbreak[J/OL].
+\newblock Measurement: Sensors, 2025, 38: 101695.
+\newblock DOI: \doi{10.1016/j.measen.2024.101695}.
+
+\bibitem[Feng et~al.(2025)Feng, Cheng, Dong, Zhang, Kang, Feng, Jia, Fan, and
+  Sun]{fengImprovedDesignMagnetic2025}
+FENG C, CHENG Y, DONG M, et~al.
+\newblock Improved design of magnetic trap system for cold atomic vacuum
+  measurements\allowbreak[J/OL].
+\newblock Vacuum, 2025, 240: 114544.
+\newblock DOI: \doi{10.1016/j.vacuum.2025.114544}.
+
+\bibitem[Zhang et~al.(2023)Zhang, Li, Zhang, Li, and
+  Wu]{zhangVacuumPressureMeasurement2023}
+ZHANG X, LI R, ZHANG J, et~al.
+\newblock Vacuum pressure measurement of cold {{7Li}} atoms in the
+  magneto-optical and magnetic trap\allowbreak[J/OL].
+\newblock AIP Advances, 2023, 13\allowbreak (5): 055131.
+\newblock DOI: \doi{10.1063/5.0149991}.
+
+\bibitem[Res()]{ResidualGasAnalyzer}
+Residual {{Gas Analyzer}}\allowbreak[Z].
+
+\bibitem[NEX()]{NEXTorrUHVPumps}
+{{NEXTorr}}\textregistered{} {{UHV Pumps}} \textbar{} {{Compact NEG}} + {{Ion
+  Pump}} for {{Ultra-high Vacuum}}\allowbreak[J].
+\newblock SAES High Vacuum.
+
+\bibitem[COM()]{COMBIVACCMPassive}
+{{COMBIVAC CM}} - {{Passive Gauge Controller Leybold}}\allowbreak[J].
+\newblock Leybold.
+
+\end{thebibliography}

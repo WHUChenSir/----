@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: gbt7714-numerical.bst
+A level-1 auxiliary file: pages/chapter1.aux
+A level-1 auxiliary file: pages/chapter2.aux
+A level-1 auxiliary file: pages/appendixA.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ref/CAVS.bib
+Warning--empty year in ResidualGasAnalyzer
+Warning--empty year in ResidualGasAnalyzer
+Warning--empty year in NEXTorrUHVPumps
+Warning--empty year in NEXTorrUHVPumps
+Warning--empty year in COMBIVACCMPassive
+Warning--empty year in COMBIVACCMPassive
+Warning--empty author and editor in ResidualGasAnalyzer
+Warning--empty year in ResidualGasAnalyzer
+Warning--empty year in ResidualGasAnalyzer
+Warning--empty author in NEXTorrUHVPumps
+Warning--empty year in NEXTorrUHVPumps
+Warning--empty author in COMBIVACCMPassive
+Warning--empty year in COMBIVACCMPassive
+You've used 22 entries,
+            5374 wiz_defined-function locations,
+            1212 strings with 13338 characters,
+and the built_in function-call counts, 182231 in all, are:
+= -- 4396
+> -- 20059
+< -- 25298
++ -- 7268
+- -- 1540
+* -- 1561
+:= -- 25674
+add.period$ -- 81
+call.type$ -- 22
+change.case$ -- 149
+chr.to.int$ -- 6370
+cite$ -- 38
+duplicate$ -- 554
+empty$ -- 2469
+format.name$ -- 641
+if$ -- 47160
+int.to.chr$ -- 1
+int.to.str$ -- 23
+missing$ -- 0
+newline$ -- 139
+num.names$ -- 57
+pop$ -- 8229
+preamble$ -- 1
+purify$ -- 22
+quote$ -- 0
+skip$ -- 19226
+stack$ -- 0
+substring$ -- 9624
+swap$ -- 22
+text.length$ -- 481
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 242
+warning$ -- 13
+while$ -- 518
+width$ -- 0
+write$ -- 353
+(There were 13 warnings)

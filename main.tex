@@ -1,0 +1,113 @@
+% !TeX program = xelatex
+
+\documentclass[type = bachelor]{whu-thesis}
+
+\whusetup{
+	info = {
+		title      = {小型化冷原子真空计量系统\\磁光阱装载实验},
+		title*     = {A prototype of a portable cold-atom vacuum gauge},
+		department = {物理学院},
+		department* = {Department of Physics},
+		author     = {陈瑞西},
+		author*    = {Chen Ruixi},
+		student-id = {2022302191455},
+		supervisor = {江开军研究员},
+		supervisor* = {Jiang Kaijun},
+		supervisor-outer = {张立},
+		academic-title = {研究员},
+		academic-title* = {},
+		academic-title-outer = {},
+		subject = {},
+		major   = {物理学},
+		major* = {Physics},
+		research-area = {原子分子光物理},
+		research-area* = {},
+		year = 2026,
+		keywords = {冷原子真空计量；磁光阱；激光冷却},
+		keywords* = {Cold atom vacuum metrology;Magneto-optical trap;Laser cooling},
+		month = 5,
+		clc = O175.29,
+		udc = 517.9,
+	},
+	style = {
+		% footnote-style = libertinus-sans,
+		font = times,
+		math-font = default,
+		cjk-font = windows,
+		% library,
+		% cjk-fakefont = true,
+		bib-backend = bibtex,
+		% bib-style = numerical,
+		bib-resource = {ref/CAVS},
+		bachelor-encover = false, % 显示英文封面
+		license = false
+	}
+}
+
+% 宏包引入
+\usepackage{physics}
+\usepackage{amsmath}
+%% 允许公式换页
+\allowdisplaybreaks[4]
+\usepackage{extarrows}
+\usepackage{annotate-equations}
+\usepackage{cancel}
+\usepackage{slashed}
+\usepackage{tcolorbox}
+\usepackage{shuffle}
+\usepackage{simpler-wick}
+\usepackage{mathtools}
+\usepackage{braket}
+\usepackage{siunitx}   % 标准单位排版包
+\usepackage[version=4]{mhchem}    % 规范化学分子式排版
+%自定义命令
+%% 实现双重尖括号
+\makeatletter
+\newsavebox{\@brx}
+\newcommand{\llangle}[1][]{\savebox{\@brx}{\(\m@th{#1\langle}\)}%
+	\mathopen{\copy\@brx\kern-0.5\wd\@brx\usebox{\@brx}}}
+\newcommand{\rrangle}[1][]{\savebox{\@brx}{\(\m@th{#1\rangle}\)}%
+	\mathclose{\copy\@brx\kern-0.5\wd\@brx\usebox{\@brx}}}
+\makeatother
+%% 重要定理框注
+\newenvironment{boxedtext}[1][定理] % 定义带参数的环境，参数数量为1（定理名称）
+{
+	\begin{tcolorbox}[
+		colback=gray!10,                % 灰色背景
+		colframe=black,                 % 黑色边框
+		arc=1mm,                        % 圆角弧度
+		auto outer arc,                 % 自动外弧
+		boxrule=0.5pt,                  % 边框线宽
+		title={\bfseries #1},           % 定理名称参数（加粗显示）
+		coltitle=white,                 % 标题文字白色
+		colbacktitle=black!70,          % 标题背景深灰色（非纯黑）
+		]
+	}
+	{
+	\end{tcolorbox}
+}
+
+\begin{document}
+	%生成目录
+	\tableofcontents
+	% \listoffigures
+	% \listoftables
+	% 正文
+	\mainmatter
+	%\include{pages/chapter1}
+	%\include{pages/chapter2}
+	%\include{pages/chapter3}
+	% 参考文献
+	% 参考文献
+	\bibliography{ref/CAVS}
+	
+	
+	% 致谢
+	%\include{pages/acknowledgement}
+	
+	% 附录
+	\appendix
+	%\include{pages/appendixA}
+	%\include{pages/appendixB}
+	%\include{pages/appendixC}
+\end{document}
